@@ -15,5 +15,3 @@ clear:
 rmproper: clean
 	rm -rf main
 
-run: main 
-	./main
